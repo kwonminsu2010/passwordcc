@@ -1,4 +1,7 @@
-#passwordcc
+PASSWORDCC
 
-bruteforce test
- made by hihim0
+bruteforce test python file
+in kali linux 
+
+
+made by hihim0
